@@ -42,7 +42,12 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+### Buying
 ![Screenshot 2024-02-15 141612](https://github.com/MaithreyanDinakaran/WDM_EXP2/assets/119104032/f7be4710-0c74-4257-81cf-faa1978aff68)
+### Employee
+![Screenshot 2024-02-15 200307](https://github.com/MaithreyanDinakaran/WDM_EXP2/assets/119104032/9af03e5f-bd40-4e79-91c2-172cd0c3f94b)
+### Banking
+![Screenshot 2024-02-15 195633](https://github.com/MaithreyanDinakaran/WDM_EXP2/assets/119104032/9d141fe6-896a-4e13-8f31-c433f8f399ba)
 
 
 ### Procedure for Association Rules:
@@ -54,8 +59,11 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
-![Screenshot 2024-02-15 195943](https://github.com/MaithreyanDinakaran/WDM_EXP2/assets/119104032/987fbb98-f3f4-404a-837d-49a60d709bfa)
-
-
+### Buying
+![Screenshot 2024-02-23 164855](https://github.com/MaithreyanDinakaran/WDM_EXP2/assets/119104032/22374715-1276-4a17-92ec-4b801069e4e1)
+### Employee
+![Screenshot 2024-02-15 204558](https://github.com/MaithreyanDinakaran/WDM_EXP2/assets/119104032/3567a030-2e22-413f-a74e-ee09b887b96c)
+### Banking
+![Screenshot 2024-02-15 195943](https://github.com/MaithreyanDinakaran/WDM_EXP2/assets/119104032/300a7cd0-5ac1-4ff9-915b-5c71c21472ac)
 ### RESULT: 
 Thus the program for Generating Association Rules for Employee dataset using Apriori Algorithm has been successfully executed
